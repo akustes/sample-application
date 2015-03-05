@@ -26,10 +26,10 @@
 	    case 'localhost':
 	        $env = 'development';
 	    break;
-	    case 'va-verifiedarranged.c9.io':
+	    case 'dev.yourdomain.com':
 	        $env = 'development';
 	    break;
-	    case 'verifiedarrangements':
+	    case 'yourdomain.com':
 	        $env = 'production';
 	    break;
 	    default:
